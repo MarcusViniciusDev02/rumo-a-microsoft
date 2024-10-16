@@ -1,0 +1,28 @@
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.exe
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.deps.json
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.runtimeconfig.json
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.dll
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.pdb
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.AssemblyInfoInputs.cache
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.AssemblyInfo.cs
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.csproj.CoreCompileInputs.cache
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.dll
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\refint\Nullable_Tipe.dll
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.pdb
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.genruntimeconfig.cache
+C:\Users\PC DO BILL\source\repos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\ref\Nullable_Tipe.dll
+C:\projetos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.exe
+C:\projetos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.deps.json
+C:\projetos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.runtimeconfig.json
+C:\projetos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.dll
+C:\projetos\Nullable_Tipe\Nullable_Tipe\bin\Debug\net8.0\Nullable_Tipe.pdb
+C:\projetos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.AssemblyInfoInputs.cache
+C:\projetos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.AssemblyInfo.cs
+C:\projetos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.csproj.CoreCompileInputs.cache
+C:\projetos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.dll
+C:\projetos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\refint\Nullable_Tipe.dll
+C:\projetos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.pdb
+C:\projetos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\Nullable_Tipe.genruntimeconfig.cache
+C:\projetos\Nullable_Tipe\Nullable_Tipe\obj\Debug\net8.0\ref\Nullable_Tipe.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC DO BILL\\source\\repos\\SaidaDeDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D3CB7F-C49E-40A9-B418-A5D4CCEA6B95}|SaidaDeDados\\SaidaDeDados.csproj|c:\\users\\pc do bill\\source\\repos\\saidadedados\\saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D3CB7F-C49E-40A9-B418-A5D4CCEA6B95}|SaidaDeDados\\SaidaDeDados.csproj|solutionrelative:saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC DO BILL\\source\\repos\\SaidaDeDados\\SaidaDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "SaidaDeDados\\Program.cs",
+              "ToolTip": "C:\\Users\\PC DO BILL\\source\\repos\\SaidaDeDados\\SaidaDeDados\\Program.cs*",
+              "RelativeToolTip": "SaidaDeDados\\Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:19:58.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

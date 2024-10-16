@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos\\TipoDeDados1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E13CA7-C7E6-47E9-86EA-3C923E89C3D8}|TipoDeDados1\\TipoDeDados1.csproj|c:\\projetos\\tipodedados1\\tipodedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E13CA7-C7E6-47E9-86EA-3C923E89C3D8}|TipoDeDados1\\TipoDeDados1.csproj|solutionrelative:tipodedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos\\TipoDeDados1\\TipoDeDados1\\Program.cs",
+              "RelativeDocumentMoniker": "TipoDeDados1\\Program.cs",
+              "ToolTip": "C:\\projetos\\TipoDeDados1\\TipoDeDados1\\Program.cs",
+              "RelativeToolTip": "TipoDeDados1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:35:03.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

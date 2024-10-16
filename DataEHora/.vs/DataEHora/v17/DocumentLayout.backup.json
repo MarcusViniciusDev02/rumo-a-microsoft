@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos\\DataEHora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F5A36FD-BF34-494F-844D-36442AA705CE}|DataEHora\\DataEHora.csproj|c:\\projetos\\dataehora\\dataehora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F5A36FD-BF34-494F-844D-36442AA705CE}|DataEHora\\DataEHora.csproj|solutionrelative:dataehora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos\\DataEHora\\DataEHora\\Program.cs",
+              "RelativeDocumentMoniker": "DataEHora\\Program.cs",
+              "ToolTip": "C:\\projetos\\DataEHora\\DataEHora\\Program.cs",
+              "RelativeToolTip": "DataEHora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:57:02.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

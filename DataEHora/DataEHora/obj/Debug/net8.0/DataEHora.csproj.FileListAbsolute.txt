@@ -1,0 +1,14 @@
+C:\projetos\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.exe
+C:\projetos\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.deps.json
+C:\projetos\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.runtimeconfig.json
+C:\projetos\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.dll
+C:\projetos\DataEHora\DataEHora\bin\Debug\net8.0\DataEHora.pdb
+C:\projetos\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.AssemblyInfoInputs.cache
+C:\projetos\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.AssemblyInfo.cs
+C:\projetos\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.csproj.CoreCompileInputs.cache
+C:\projetos\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.dll
+C:\projetos\DataEHora\DataEHora\obj\Debug\net8.0\refint\DataEHora.dll
+C:\projetos\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.pdb
+C:\projetos\DataEHora\DataEHora\obj\Debug\net8.0\DataEHora.genruntimeconfig.cache
+C:\projetos\DataEHora\DataEHora\obj\Debug\net8.0\ref\DataEHora.dll

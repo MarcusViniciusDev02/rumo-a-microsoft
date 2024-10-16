@@ -1,0 +1,4 @@
+C:\Users\PC DO BILL\source\repos\Convencoes\Convencoes\obj\Debug\net8.0\Convencoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC DO BILL\source\repos\Convencoes\Convencoes\obj\Debug\net8.0\Convencoes.AssemblyInfoInputs.cache
+C:\Users\PC DO BILL\source\repos\Convencoes\Convencoes\obj\Debug\net8.0\Convencoes.AssemblyInfo.cs
+C:\Users\PC DO BILL\source\repos\Convencoes\Convencoes\obj\Debug\net8.0\Convencoes.csproj.CoreCompileInputs.cache

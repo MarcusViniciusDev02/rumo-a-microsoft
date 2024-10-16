@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC DO BILL\\source\\repos\\Convencoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E614603-949C-4790-8568-84802FEC1292}|Convencoes\\Convencoes.csproj|c:\\users\\pc do bill\\source\\repos\\convencoes\\convencoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E614603-949C-4790-8568-84802FEC1292}|Convencoes\\Convencoes.csproj|solutionrelative:convencoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 104,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC DO BILL\\source\\repos\\Convencoes\\Convencoes\\Program.cs",
+              "RelativeDocumentMoniker": "Convencoes\\Program.cs",
+              "ToolTip": "C:\\Users\\PC DO BILL\\source\\repos\\Convencoes\\Convencoes\\Program.cs*",
+              "RelativeToolTip": "Convencoes\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:29:24.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.exe
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.deps.json
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.runtimeconfig.json
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.dll
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\bin\Debug\net8.0\ExerciciosFase1.pdb
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.AssemblyInfoInputs.cache
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.AssemblyInfo.cs
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.csproj.CoreCompileInputs.cache
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.dll
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\obj\Debug\net8.0\refint\ExerciciosFase1.dll
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.pdb
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\obj\Debug\net8.0\ExerciciosFase1.genruntimeconfig.cache
+C:\Users\PC DO BILL\source\repos\ExerciciosFase1\ExerciciosFase1\obj\Debug\net8.0\ref\ExerciciosFase1.dll

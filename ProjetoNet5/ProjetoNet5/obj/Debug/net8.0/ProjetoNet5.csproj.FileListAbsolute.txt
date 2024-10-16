@@ -1,0 +1,14 @@
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\bin\Debug\net8.0\ProjetoNet5.exe
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\bin\Debug\net8.0\ProjetoNet5.deps.json
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\bin\Debug\net8.0\ProjetoNet5.runtimeconfig.json
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\bin\Debug\net8.0\ProjetoNet5.dll
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\bin\Debug\net8.0\ProjetoNet5.pdb
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\obj\Debug\net8.0\ProjetoNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\obj\Debug\net8.0\ProjetoNet5.AssemblyInfoInputs.cache
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\obj\Debug\net8.0\ProjetoNet5.AssemblyInfo.cs
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\obj\Debug\net8.0\ProjetoNet5.csproj.CoreCompileInputs.cache
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\obj\Debug\net8.0\ProjetoNet5.dll
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\obj\Debug\net8.0\refint\ProjetoNet5.dll
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\obj\Debug\net8.0\ProjetoNet5.pdb
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\obj\Debug\net8.0\ProjetoNet5.genruntimeconfig.cache
+C:\Users\PC DO BILL\source\repos\ProjetoNet5\ProjetoNet5\obj\Debug\net8.0\ref\ProjetoNet5.dll
