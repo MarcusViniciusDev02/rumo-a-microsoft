@@ -1,0 +1,15 @@
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\bin\Debug\net8.0\tostring.exe
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\bin\Debug\net8.0\tostring.deps.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\bin\Debug\net8.0\tostring.runtimeconfig.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\bin\Debug\net8.0\tostring.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\bin\Debug\net8.0\tostring.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\tostring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\tostring.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\tostring.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\tostring.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\tostring.sourcelink.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\tostring.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\refint\tostring.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\tostring.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\tostring.genruntimeconfig.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\tostring\obj\Debug\net8.0\ref\tostring.dll

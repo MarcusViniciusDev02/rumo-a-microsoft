@@ -1,0 +1,15 @@
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\bin\Debug\net8.0\Swith2.exe
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\bin\Debug\net8.0\Swith2.deps.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\bin\Debug\net8.0\Swith2.runtimeconfig.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\bin\Debug\net8.0\Swith2.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\bin\Debug\net8.0\Swith2.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\Swith2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\Swith2.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\Swith2.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\Swith2.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\Swith2.sourcelink.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\Swith2.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\refint\Swith2.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\Swith2.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\Swith2.genruntimeconfig.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\Swith2\Swith2\obj\Debug\net8.0\ref\Swith2.dll

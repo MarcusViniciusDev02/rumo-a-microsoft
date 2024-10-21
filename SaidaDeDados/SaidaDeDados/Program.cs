@@ -9,5 +9,6 @@ Console.WriteLine(idade); //Escreve uma linha e pula para outra.
 // Melhor forma de escrever. (Interpolação)
 Console.WriteLine($"{nome} tem {idade} anos.");
 
-//PlaceHolders
+//PlaceHolders (Interpolação)
 Console.WriteLine("{0} tem {1} anos.", nome, idade);
+

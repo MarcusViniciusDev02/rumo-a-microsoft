@@ -1,0 +1,15 @@
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\bin\Debug\net8.0\ForII.exe
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\bin\Debug\net8.0\ForII.deps.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\bin\Debug\net8.0\ForII.runtimeconfig.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\bin\Debug\net8.0\ForII.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\bin\Debug\net8.0\ForII.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\ForII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\ForII.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\ForII.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\ForII.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\ForII.sourcelink.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\ForII.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\refint\ForII.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\ForII.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\ForII.genruntimeconfig.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ForII\ForII\obj\Debug\net8.0\ref\ForII.dll

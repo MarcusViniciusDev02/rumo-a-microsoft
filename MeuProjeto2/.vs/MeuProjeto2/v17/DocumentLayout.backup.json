@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projetos\\MeuProjeto2\\",
+  "WorkspaceRootPath": "C:\\Users\\Marcus\\Desktop\\rumo-a-microsoft\\MeuProjeto2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38AEE6DE-ED36-4754-A75B-973C1F03E188}|MeuProjeto2\\MeuProjeto2.csproj|c:\\projetos\\meuprojeto2\\meuprojeto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38AEE6DE-ED36-4754-A75B-973C1F03E188}|MeuProjeto2\\MeuProjeto2.csproj|c:\\users\\marcus\\desktop\\rumo-a-microsoft\\meuprojeto2\\meuprojeto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38AEE6DE-ED36-4754-A75B-973C1F03E188}|MeuProjeto2\\MeuProjeto2.csproj|solutionrelative:meuprojeto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projetos\\MeuProjeto2\\MeuProjeto2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\rumo-a-microsoft\\MeuProjeto2\\MeuProjeto2\\Program.cs",
               "RelativeDocumentMoniker": "MeuProjeto2\\Program.cs",
-              "ToolTip": "C:\\projetos\\MeuProjeto2\\MeuProjeto2\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\rumo-a-microsoft\\MeuProjeto2\\MeuProjeto2\\Program.cs",
               "RelativeToolTip": "MeuProjeto2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T21:27:12.799Z",
+              "WhenOpened": "2024-10-17T17:11:33.513Z",
               "EditorCaption": ""
             }
           ]

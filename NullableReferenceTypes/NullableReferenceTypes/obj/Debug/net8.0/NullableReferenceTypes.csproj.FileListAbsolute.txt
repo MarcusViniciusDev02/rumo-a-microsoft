@@ -1,0 +1,15 @@
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.exe
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.deps.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.runtimeconfig.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.sourcelink.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\refint\NullableReferenceTypes.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.genruntimeconfig.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\NullableReferenceTypes\NullableReferenceTypes\obj\Debug\net8.0\ref\NullableReferenceTypes.dll

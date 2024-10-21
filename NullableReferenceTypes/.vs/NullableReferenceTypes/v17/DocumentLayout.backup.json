@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcus\\Desktop\\rumo-a-microsoft\\NullableReferenceTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF0F34B-1CFF-4D67-B3F5-518E5DAB9DB5}|NullableReferenceTypes\\NullableReferenceTypes.csproj|c:\\users\\marcus\\desktop\\rumo-a-microsoft\\nullablereferencetypes\\nullablereferencetypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF0F34B-1CFF-4D67-B3F5-518E5DAB9DB5}|NullableReferenceTypes\\NullableReferenceTypes.csproj|solutionrelative:nullablereferencetypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\rumo-a-microsoft\\NullableReferenceTypes\\NullableReferenceTypes\\Program.cs",
+              "RelativeDocumentMoniker": "NullableReferenceTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\rumo-a-microsoft\\NullableReferenceTypes\\NullableReferenceTypes\\Program.cs",
+              "RelativeToolTip": "NullableReferenceTypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:42:35.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.exe
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.deps.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.runtimeconfig.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\bin\Debug\net8.0\ConversaoTipos.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.sourcelink.json
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\refint\ConversaoTipos.dll
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.pdb
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\ConversaoTipos.genruntimeconfig.cache
+C:\Users\Marcus\Desktop\rumo-a-microsoft\ConversaoTipos\obj\Debug\net8.0\ref\ConversaoTipos.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcus\\Desktop\\rumo-a-microsoft\\ForII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2414FF-6998-4AA9-83E9-3DDD351AA9EB}|ForII\\ForII.csproj|c:\\users\\marcus\\desktop\\rumo-a-microsoft\\forii\\forii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2414FF-6998-4AA9-83E9-3DDD351AA9EB}|ForII\\ForII.csproj|solutionrelative:forii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\rumo-a-microsoft\\ForII\\ForII\\Program.cs",
+              "RelativeDocumentMoniker": "ForII\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\rumo-a-microsoft\\ForII\\ForII\\Program.cs",
+              "RelativeToolTip": "ForII\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:32:47.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
